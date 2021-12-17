@@ -4,8 +4,15 @@
 // Todo
 ================
 # Require Environment:
-1.Install Anaconda Navigator
+Make sure your time/location range is the same as New York Time
+
+If on Windows, right click the date and time on the lower right.
+Click "Adjust Date/Time".
+Click "Sync now."
+
+1. Install Anaconda Navigator
 https://www.anaconda.com/products/individual
+
 
 2. Build a Python 3.8 Environment
 ![Alt Text](gifs/Instruction_anaconda.gif)
