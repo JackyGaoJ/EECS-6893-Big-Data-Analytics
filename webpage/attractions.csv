@@ -1,0 +1,73 @@
+,acutal_name,place_name,zipcode,place_tweet_id,average_likes,average_reweets,positive_rate,negative_rate
+0,The Metropolitan Museum of Art,The Metropolitan Museum of Art,10028,metmuseum,127.1,26.85,0.0,0.0
+1,The Museum of Modern Art,MoMA The Museum of Modern Art,10019,MuseumModernArt,205.32,43.49,0.95,0.04
+2,Guggenheim Museum,Guggenheim Museum,10128,Guggenheim,127.18,25.85,0.54,0.11
+3,Whitney Museum,Whitney Museum,10014,whitneymuseum,72.79,14.62,0.53,0.14
+4,Brooklyn Museum,Brooklyn Museum,11238,brooklynmuseum,18.17,3.34,0.39,0.1
+5,The Jewish Museum,The Jewish Museum,10128,TheJewishMuseum,8.41,2.47,0.63,0.11
+6,Fotografiska New York,Fotografiska New York,10010,FotografiskaNY,11.0,3.37,1.0,0.0
+7,Merchant's House,Merchant's House,10011,MerchantsHouse,1.98,0.69,0.49,0.2
+8,New Museum,New Museum,10019,newmuseum,11.31,2.95,0.88,0.1
+9,Frick Collection,The Frick Collection,10021,frickcollection,27.1,5.62,0.48,0.05
+10,The Morgan,The Morgan,10016,MorganLibrary,10.77,2.81,0.51,0.24
+11,Neue Galerie New York,Neue Galerie New York,10028,NeueGalerieNY,14.24,2.18,0.83,0.0
+12,Queens Museum,Queens Museum,11368,QueensMuseum,4.5,1.42,0.62,0.04
+13,American Museum of Natural History,American Museum of Natural History,10024,AMNH,254.81,39.97,0.91,0.09
+14,Bronx Museum of the Arts,The Bronx Museum of the Arts,10456,BronxMuseum,8.05,2.16,0.0,0.0
+15,Museum of Arts and Design,Museum of Arts and Design,10023,MADmuseum,4.41,1.06,0.49,0.13
+16,Intrepid Museum,"Intrepid Sea, Air & Space Museum",10036,IntrepidMuseum,11.18,1.92,0.47,0.2
+17,Museum of Sex,Museum of Sex,10016,museumofsex,17.28,1.94,0.59,0.15
+18,Cooper Hewitt,Cooper Hewitt,10128,cooperhewitt,11.67,3.04,0.63,0.04
+19,El Museo del Barrio,El Museo del Barrio,10026,elmuseo,5.04,1.88,1.0,0.0
+20,American Folk Art Museum,The American Folk Art Museum is open!,10023,FolkArtMuseum,7.57,1.49,0.62,0.12
+21,New-York Historical Society,New-York Historical Society,10024,NYHistory,22.9,5.14,0.42,0.0
+22,The Studio Museum in Harlem,The Studio Museum in Harlem,10027,studiomuseum,15.2,5.24,0.37,0.23
+23,Rubin Museum,Rubin Museum,10011,RubinMuseum,7.15,2.17,0.37,0.25
+24,National Museum of the American Indian,AmerIndianMuseumNYC,10004,AmerIndianNYC,9.55,3.18,0.37,0.19
+25,Asia Society Museum,Asia Society NY,10021,AsiaSocietyNY,4.34,1.29,0.6,0.0
+26,Leslie-Lohman Museum of Art,Leslie-Lohman Museum of Art,10013,LeslieLohman,6.5,1.48,1.0,0.0
+27,Museum of Chinese in America,Museum of Chinese in America,10013,mocanyc,7.36,3.77,0.0,0.67
+28,The Drawing Center,The Drawing Center,10013,drawingcenter,5.73,1.39,0.66,0.34
+29,The Noguchi Museum,The Noguchi Museum,11106,NoguchiMuseum,8.52,2.27,0.43,0.29
+30,National September 11 Memorial & Museum,9/11 Memorial & Museum,10007,Sept11Memorial,117.81,23.01,0.5,0.5
+31,The Met: Cloisters,The Met: Cloisters,10040,met_cloisters,10.34,1.85,0.41,0.04
+32,Museum at FIT,Museum at FIT,10001,museumatFIT,40.95,8.47,0.93,0.04
+33,Grand Central Terminal,Grand Central Terminal,10017,GrandCentralNYC,4.12,0.92,0.95,0.05
+34,Federal Hall National Memorial,Federal Hall National Memorial,10038,FederalHallNPS,7.41,1.99,1.0,0.0
+35,Rockefeller Center,Rockefeller Center,10111,rockcenternyc,143.76,25.35,0.51,0.45
+36,One World Observatory,One World Observatory,10048,OneWorldNYC,19.69,2.89,0.73,0.12
+37,Cathedral of St. John the Divine,Cathedral of St. John the Divine,10025,StJohnDivineNYC,7.49,1.6,0.69,0.05
+38,Brooklyn Botanic Garden,Brooklyn Botanic Garden,11213,BrooklynBotanic,19.43,5.74,0.64,0.07
+39,Museum of the Moving Image,Museum of the Moving Image,11106,MovingImageNYC,41.9,6.14,0.68,0.02
+40,Empire State Building,Empire State Building,10018,EmpireStateBldg,2303.95,622.48,0.41,0.0
+41,Yankee Stadium,Yankee Stadium,10451,yankeestadium,210.8,29.29,0.36,0.3
+42,9/11 Tribute Museum,9/11 Tribute Museum,10006,911TribMuseum,4.54,0.98,0.33,0.33
+43,Historic Richmond Town,Historic Richmond Town,10306,RichmondTownNYC,1.22,0.36,0.29,0.29
+44,St. Patrick’s Cathedral,StPatsNYC,10035,StPatsNYC,21.66,4.73,0.39,0.04
+45,American Museum of Natural History,American Museum of Natural History,10024,AMNH,254.82,39.97,0.91,0.09
+46,Alice Austen House,Alice Austen House,10305,iAliceAusten,2.13,0.63,0.5,0.0
+47,New York Botanical Garden,New York Botanical Garden,10458,NYBG,36.42,8.99,0.89,0.0
+48,Brooklyn Children’s Museum,Brooklyn Children’s Museum,11213,BrooklynKids,1.72,0.79,0.67,0.08
+49,Lincoln Center,Lincoln Center,10023,LincolnCenter,12.73,3.75,0.49,0.47
+50,Apollo Theater,apollotheater,10027,ApolloTheater,24.08,9.34,0.6,0.05
+51,Bronx Zoo,Bronx Zoo,10460,BronxZoo,122.62,14.08,0.58,0.08
+52,Louis Armstrong,Louis Armstrong,11368,ArmstrongHouse,175.3,44.84,0.7,0.09
+53,Central Park,Central Park,10019,CentralParkNYC,87.42,17.61,0.53,0.1
+54,Carnegie Hall,Carnegie Hall,10019,carnegiehall,31.61,6.94,0.56,0.15
+55,Statue of Liberty,Statue of Liberty NM,10004,StatueEllisNPS,89.22,16.09,0.44,0.17
+56,New York Transit Museum,NY Transit Museum,11201,NYTransitMuseum,39.14,7.3,1.0,0.0
+57,Fraunces Tavern Museum,Fraunces Tavern® Museum,10004,frauncestavern,5.02,1.91,1.0,0.0
+58,African Burial Ground National Monument,AfricanBurialGround,10007,AFBurialGrndNPS,19.35,6.01,0.25,0.0
+59,Stonewall National Monument,Stonewall National Monument,10014,StonewallNps,7.25,1.8,0.5,0.0
+60,Brooklyn Bridge Park,Brooklyn Bridge Park,11201,bbpnyc,4.24,1.34,0.44,0.08
+61,The Shed,The Shed,10001,TheShedNY,3.81,1.11,0.64,0.18
+62,Central Park Zoo,Central Park Zoo,10153,centralparkzoo,25.33,3.37,0.64,0.15
+63,The Seaport,The Seaport,10038,TheSeaportNYC,2.75,0.59,0.55,0.13
+64,Prospect Park,Prospect Park,11217,prospect_park,10.43,2.12,0.35,0.19
+65,Theodore Roosevelt Birthplace,T.R. Birthplace,10010,TRBirthplaceNPS,7.51,1.87,0.6,0.4
+66,Luna Park,Luna Park in Coney Island,11224,LunaParkNYC,14.59,3.85,0.54,0.07
+67,High Line,High Line,10001,highlinenyc,15.5,2.9,0.77,0.18
+68,Madison Square Garden,MSG,10001,TheGarden,2375.95,421.32,0.67,0.08
+69,Times Square,Times Square,10036,TimesSquareNYC,64.99,10.79,0.55,0.25
+70,Brooklyn Museum,Brooklyn Museum,11238,brooklynmuseum,18.18,3.34,0.4,0.1
+71,Queens Botanical Garden,Queens Botanical Garden,11355,queensbotanicl,4.23,1.54,0.67,0.0
