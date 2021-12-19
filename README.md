@@ -19,12 +19,12 @@ https://www.anaconda.com/products/individual
 
 3. Open previous built enviroment's Terminal and Install required packages
 ```
-pip install --upgrade "ibm-watson>=5.3.0"
-conda install pandas-gbq --channel conda-forge
-conda install geopandas
-pip install tweepy
-pip install jupyter
-pip install notebook
+$ pip install --upgrade "ibm-watson>=5.3.0"
+$ pip install pandas-gbq
+$ conda install geopandas
+$ pip install tweepy
+$ pip install jupyter
+$ pip install notebook
 ```
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
