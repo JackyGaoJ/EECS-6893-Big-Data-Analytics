@@ -24,6 +24,7 @@ conda install pandas-gbq --channel conda-forge
 conda install geopandas
 pip install tweepy
 pip install jupyter
+pip install notebook
 ```
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
