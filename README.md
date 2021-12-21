@@ -21,8 +21,6 @@ https://www.anaconda.com/products/individual
 ```
 $ pip install --upgrade "ibm-watson>=5.3.0"
 $ pip install pandas-gbq
-$ conda install geopandas
-$ pip install tweepy
 $ pip install jupyter
 $ pip install notebook
 $ pip install fuzzywuzzy
