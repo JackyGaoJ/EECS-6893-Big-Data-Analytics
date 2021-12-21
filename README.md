@@ -25,7 +25,7 @@ $ conda install geopandas
 $ pip install tweepy
 $ pip install jupyter
 $ pip install notebook
-$ pip install fuzzymuzzy
+$ pip install fuzzywuzzy
 ```
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
