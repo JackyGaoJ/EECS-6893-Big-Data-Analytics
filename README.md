@@ -24,6 +24,7 @@ $ pip install pandas-gbq
 $ pip install jupyter
 $ pip install notebook
 $ pip install fuzzywuzzy
+$ pip install tqdm
 ```
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
@@ -39,3 +40,6 @@ The system will open a webpage ```main.html```
 
 7. You could type ```restart``` to restart the system 
 
+# Some Clarification:
+1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001.
+2. Analyzing Tweets takes a long time (maybe 10 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README.
