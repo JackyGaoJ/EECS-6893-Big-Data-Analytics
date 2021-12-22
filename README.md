@@ -1,9 +1,11 @@
 # EECS 6893 Group 28 Final Project
+- Jian Gao(jg4305)
+- Yaning Wang(yw3606)
+- Jiongxin Ye(jy3114)
 
 ## About This Project 
-// Todo
-================
-# Require Environment:
+   This project develops a New York City traveling place recommendation system. When people are not familiar with NYC, they can enter their requirements into this system and get a list of recommended places. This system searches places in 3 directions: safety level, price level, and popular level. Based on the demand from the user, the algorithm will change the weight for each attribute and select a better location.
+## Required Environment:
 Make sure your computer's time/location range is the same as New York Time
 
 If on Windows, right click the date and time on the lower right.
@@ -45,13 +47,20 @@ The system will open a webpage ```main.html```
 
 8. All process
 ![Alt Text](gifs/all-process.gif)
-# Some Clarification:
+## Some Clarification:
 1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001. If you type a zipcode that we have not stored any hotels in our bigquery, we will ask you to re-enter a zipcode.
 2. Analyzing Tweets takes a long time (maybe 10 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README. We have already run it recently and stored data in .csv files so that you do not need to run it again.
 3. Due to Google GCP Bigquery's slow upload, we have already uploaded much data into tables in BigQuery to save your time.
 4. Each of us has used up the free experience of $300 plus the extra $50. Thus, in the future, this program may need to add a billing information in our account.
 
-# Reference:
+## Tools Used:
+- [IBM Watson Assistant](https://www.ibm.com/products/watson-assistant). You could refer the instruction of installation and usage here: [IBM Watson Assistant API Doc](https://cloud.ibm.com/apidocs/assistant/assistant-v2?code=python)
+- [Tweepy](https://docs.tweepy.org/en/v3.5.0/)
+- [Google Maps/Places API](https://developers.google.com/maps/documentation)
+- [Google GCP Bigquery](https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_547127448229-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_Big%20Query%20Expansion-KWID_43700066498002489-kwd-327307220541&utm_term=KW_cloud%20bigquery-ST_cloud%20bigquery&gclid=CjwKCAiAtouOBhA6EiwA2nLKH1zpoKvmEFSXDYkqylo4P9Ck4LuB1Ch2EdBR8IgfZByGsHQDMJtl4xoCcLcQAvD_BwE&gclsrc=aw.ds)
+- [Geopy](https://geopy.readthedocs.io/en/stable/)
+- [TextBlob](https://textblob.readthedocs.io/en/dev/)
+## Reference:
 - How to realize connection between front-end JS and back-end Python. (2019, February 23). bupt_gwy. 
 https://blog.csdn.net/a312863063/article/details/87898349
 
