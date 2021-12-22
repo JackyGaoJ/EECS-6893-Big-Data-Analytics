@@ -12,8 +12,7 @@ If on Windows, right click the date and time on the lower right.
 Click "Adjust Date/Time".
 Click "Sync now."
 
-1. Install Anaconda Navigator
-https://www.anaconda.com/products/individual
+1. Install [Anaconda Navigator](https://www.anaconda.com/products/individual)
 
 
 2. Build a Python 3.8 Environment
