@@ -4,7 +4,7 @@
 // Todo
 ================
 # Require Environment:
-Make sure your time/location range is the same as New York Time
+Make sure your computer's time/location range is the same as New York Time
 
 If on Windows, right click the date and time on the lower right.
 Click "Adjust Date/Time".
@@ -45,6 +45,7 @@ The system will open a webpage ```main.html```
 8. All process
 ![Alt Text](gifs/all-process.gif)
 # Some Clarification:
-1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001.
+1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001. If you type a zipcode that we have not stored any hotels in our bigquery, we will ask you to re-enter a zipcode.
+
 2. Analyzing Tweets takes a long time (maybe 10 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README. We have already run it recently and stored data in .csv files so that you do not need to run it again.
 3. Due to Google GCP Bigquery's slow upload, we have already uploaded much data into tables in BigQuery to save your time
