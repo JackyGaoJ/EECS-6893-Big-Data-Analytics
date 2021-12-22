@@ -31,27 +31,30 @@ pip install tweepy
 pip install geopy
 pip install textblob
 ```
+4. Download zip of this repository. Extract the zip to a place on your disk.
 
-4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
+5. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
 
-5. Open the file ```main.ipynb```, and run each cell. When you run the cell contains:
+6. On the Jupyter Notebook's page, direct into the folder you just extracted.
+
+7. Open the file ```main.ipynb```, and run each cell. When you run the cell contains:
 ~~~python
 if __name__ == "__main__":
     main()
 ~~~
 The system will open a webpage ```main.html```
 
-6. Type anything to invoke the system. And follow the dialogue of our system to get recommendations!
+8. Type anything to invoke the system. And follow the dialogue of our system to get recommendations!
 
-7. You could type ```restart``` to restart the system 
+9. You could type ```restart``` to restart the system 
 
-8. All process
+#### All process
 ![Alt Text](gifs/all-process.gif)
 ## Some Clarification:
-1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001. If you type a zipcode that we have not stored any hotels in our bigquery, we will ask you to re-enter a zipcode.
-2. Analyzing Tweets takes a long time (maybe 10 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README. We have already run it recently and stored data in .csv files so that you do not need to run it again.
-3. Due to Google GCP Bigquery's slow upload, we have already uploaded much data into tables in BigQuery to save your time.
-4. Each of us has used up the free experience of $300 plus the extra $50. Thus, in the future, this program may need to add a billing information in our account.
+- There is a limit of requests for Hotel API. We have already run out of it this month. And there are some issues about GCP BigQuery (One of our teammates's account was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001. If you type a zipcode that we have not stored any hotel in our bigquery, we will ask you to re-enter a zipcode.
+- Analyzing Tweets takes a long time (may be 2 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README. We have already run it recently and stored data in .csv files so that you do not need to run it again.
+- Due to Google GCP Bigquery's slow upload, we have already uploaded all data into tables in BigQuery to save your time.
+- Each of us has used up the free experience of $300 plus the extra $50. Thus, in the future, this program may need to add a billing information in the used account.
 
 ## Tools Used:
 - [IBM Watson Assistant](https://www.ibm.com/products/watson-assistant). You could refer the instruction of installation and usage here: [IBM Watson Assistant API Doc](https://cloud.ibm.com/apidocs/assistant/assistant-v2?code=python)
