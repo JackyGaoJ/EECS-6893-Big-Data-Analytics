@@ -3,6 +3,8 @@ pip install tweepy
 
 pip install geopy
 
+pip install textblob
+
 # Description
 This is a popularity analysis based on Twitter API. The official accounts of attractions in NYC are selected to gather information such as likes, retweets, and the number of favorites. Then tweets that have a topic related to these attractions are collected to apply sentimental analysis.
 
