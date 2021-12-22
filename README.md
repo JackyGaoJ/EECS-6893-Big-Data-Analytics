@@ -15,7 +15,7 @@ Click "Sync now."
 1. Install [Anaconda Navigator](https://www.anaconda.com/products/individual)
 
 
-2. Build a """Python 3.8""" Environment
+2. Build a ``` Python 3.8 ``` Environment
 ![Alt Text](gifs/Instruction_anaconda.gif)
 
 3. Open previous built enviroment's Terminal and Install required packages
