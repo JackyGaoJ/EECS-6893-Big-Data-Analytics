@@ -39,7 +39,8 @@ The system will open a webpage ```main.html```
 6. Type anything to invoke the system. And follow the dialogue of our system to get recommendations!
 
 7. You could type ```restart``` to restart the system 
-
+8. All process
+![Alt Text](gifs/all-process.gif)
 # Some Clarification:
 1. There is a limit of requests for Hotel API. We have already run out of it this month. And there is some issue about GCP BigQuery (One of our teammates's accound was blocked by Google), thus our previous uploaded data could not be accessed. So we modified our codes that user could only find hotels in zipcode 10025 and 10001.
 2. Analyzing Tweets takes a long time (maybe 10 hours or longer), so we update it periodically. You could refer to Twitter folder, there is a README. We have already run it recently and stored data in .csv files so that you do not need to run it again.
