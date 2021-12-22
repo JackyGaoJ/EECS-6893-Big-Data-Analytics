@@ -25,6 +25,9 @@ pip install jupyter
 pip install notebook
 pip install fuzzywuzzy
 pip install tqdm
+pip install tweepy
+pip install geopy
+pip install textblob
 ```
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
