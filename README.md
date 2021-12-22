@@ -32,7 +32,7 @@ pip install textblob
 
 4. Once every package is installed, open a new environment terminal, and type ``` jupyter notebook ``` to open Jupyter Notebook
 
-5. Open the file ```demo.ipynb```, and run each cell. When you run the cell contains:
+5. Open the file ```main.ipynb```, and run each cell. When you run the cell contains:
 ~~~python
 if __name__ == "__main__":
     main()
